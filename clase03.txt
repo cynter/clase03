@@ -11,3 +11,6 @@ VAR_DUMP($_GET)
 
 index.php-->destino.php |->mayora5.html
 			|->menora5.html
+
+
+estas paginas (<,> 5) estas incluidas en destino, x eso se pueden ver en index
