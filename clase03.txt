@@ -1,0 +1,13 @@
+var dump
+
+variables globales:
+ var_dump($_REQUEST);  --> devuelve un array, son variables dinamicas
+
+	|-> siempre hay que empezar por esto.Los datos que enviamos se ven en la direccion x un metodo GET
+	
+VAR_DUMP($_GET)
+
+----pag dinamica---
+
+index.php-->destino.php |->mayora5.html
+			|->menora5.html
